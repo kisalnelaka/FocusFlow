@@ -15,7 +15,7 @@ FocusFlow is a Chrome extension that helps users with ADHD manage their time. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FocusFlow.git
+   git clone https://github.com/kisalnelaka/FocusFlow.git
 2. Open chrome://extensions/ in Chrome.
 3. Enable "Developer mode."
 4. Click "Load unpacked" and select the project folder.
